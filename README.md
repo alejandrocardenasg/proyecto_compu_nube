@@ -9,7 +9,7 @@ La carpeta Flask, contiene todos los archivos para desplegar una aplicación web
 
 ## Autores
 
-Alejandro Cárdenas
-Sebastián Matiz
-Julián Nuñez
-Mishell Otavo
+* Alejandro Cárdenas
+* Sebastián Matiz
+* Julián Nuñez
+* Mishell Otavo
